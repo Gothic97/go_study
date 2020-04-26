@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hi
+=======
+For test3.txt
+Modified
+>>>>>>> 581fc3811c399b8b5796fe514663c49e36b2783d
